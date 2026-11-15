@@ -1,0 +1,9 @@
+# Fichiers générés par la compilation
+bin/
+obj/
+
+# Fichiers propres à Visual Studio et Rider
+.vs/
+.idea/
+*.user
+*.suo
